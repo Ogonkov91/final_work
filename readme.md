@@ -19,7 +19,7 @@
 
 - Репозиторий Git
 - task - Папка с программой на языке C#  
-    - .gitignore - Сгенерированный dotnet
+    
     - Program.cs - Код к задаче
 - Readme.md - Описание
 - Diagram.drawio.png - блок-схема
